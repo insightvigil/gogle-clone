@@ -1,6 +1,6 @@
 ## Google Clone 🚀
 
-A copy of darkmode google built using HTML and CSS.
+A copy of darkmode google developed using HTML and CSS.
 
 ### Applied technologies 🧑‍💻
 - HTML
