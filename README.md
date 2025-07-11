@@ -1,3 +1,19 @@
-# gogle-clone
-Proyecto realizado en el curso práctico de HTML y CSS de platzi 
-Desarrolle un clone de la página oficial de google especificamente en su modo oscuro
+## Google Clone 🚀
+
+A copy of darkmode google built using HTML and CSS.
+
+### Applied technologies 🧑‍💻
+- HTML
+- CSS
+
+
+
+You can check it out live [here](https://insightvigil.github.io/google-clone).
+
+### Contributors 🤝
+- [Adrián Vigil](https://github.com/insightvigil)
+
+#### Project developed during _Curso práctico de HTML y CSS_ by _platzi_
+
+
+
